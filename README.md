@@ -37,8 +37,8 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
   </a> 
-  <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/355500/oracle.svg" alt="Oracle DB" width="40" height="40"/> 
+  <a href="https://www.oracle.com/tools/technologies/sql-developer.html" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/373609/sql-developer.svg" alt="SQL Developer" width="40" height="40"/> 
   </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
@@ -63,13 +63,4 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sreeraj261&theme=radical" alt="sreeraj261" />
 </p>
 
-
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.adobe.com/pdf" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="pdf" width="40" height="40"/> 
-  </a> 
-</p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sreeraj261&" alt="sreeraj261" /></p>
 
